@@ -104,9 +104,5 @@ every fold from scratch. This distinction is intentional.
 experiment before this folder was prepared. Those checks do not substitute
 for independent retraining on the unavailable grid data.
 
-## Release boundary
-
-No private GIS data, trained checkpoints, absolute local paths, NDSHA
-exploration, oracle-selected experiments, or figure-generation scripts belong
 in this folder. Before publishing, review data and software licensing for any
 separate materials you choose to add.
